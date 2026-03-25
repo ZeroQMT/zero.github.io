@@ -3,6 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
+
+- type: facebook
+  icon: "fab fa-facebook"
+  url: "https://facebook.com/thangthugian"
+
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
@@ -13,6 +19,8 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
